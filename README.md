@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PunnawatSiri
-- 👀 I’m interested in road pavement, image processing, and mobile GIS.
-- 🌱 I’m currently learning civil engineering at KTH/exchange-EPFL
-- 💞️ I’m looking to collaborate on a project related on pavement crack detection using NN combined with the application of moblie GIS.
-- 📫 How to reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se, or punnawat.siripatthiti@epfl.ch
+- 👀 I’m interested in intelligent maintenant for infrastructure.
+- 📕 I’m currently learning transport and geoinformation technology at KTH/ exchange civil engineering student at EPFL.
+- ✨ I’m currently working on Generative Domain Adaptation for Crack Detection from UAV Imagery.
+- 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se, or punnawat.siripatthiti@epfl.ch
 
 <!---
 PunnawatSiri/PunnawatSiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
