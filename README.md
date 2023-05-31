@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PunnawatSiri
-- 👀 I’m interested in AI-based intelligent maintenant for infrastructure.
-- 📕 I’m currently learning transport and geoinformation technology at KTH/ exchange civil engineering student at EPFL.
-- ✨ I’m currently working on Generative Domain Adaptation for Crack Detection from UAV Imagery.
+- 👀 I’m interested in visiion-based intelligent maintenant for infrastructure.
+- 📕 I’m currently learning transport and geoinformation technology at KTH, Sweden + exchange student and visiting researcher at EPFL, Switzerland.
+- ✨ I’m currently working on Generative Domain Adaptation for Crack Detection from UAV Imagery 🕹️ at IMOS lab in EPFL.
+- 🐧 I use Linux Mint btw. 
 - 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se, or punnawat.siripatthiti@epfl.ch
 
 <!---
