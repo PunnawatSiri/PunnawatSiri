@@ -4,6 +4,7 @@
 - ✨ I’m currently working on Generative Domain Adaptation for Crack Detection from UAV Imagery 🕹️ at IMOS lab in EPFL.
 - 🐧 I use Linux Mint btw. 
 - 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se, or punnawat.siripatthiti@epfl.ch
+- 👷🏻‍♂️ I had been working as structural designer for three years. Visit https://punnawatsiri.github.io/ to see more about my portfolio.
 
 <!---
 PunnawatSiri/PunnawatSiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
