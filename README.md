@@ -3,7 +3,7 @@
 - 📕 I’m currently learning transport and geoinformation technology at KTH, Sweden + exchange student and visiting researcher at EPFL, Switzerland.
 - ✨ I’m currently working on Synthetic Damage for Crack Detection 🕹️ at IMOS lab in EPFL.
 - 🐧 I use Linux Mint btw. 
-- 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se, or punnawat.siripatthiti@epfl.ch
+- 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se
 - 👷🏻‍♂️ I had been working as structural designer for three years. Visit https://punnawatsiri.github.io/ to see more about my portfolio.
 
 <!---
