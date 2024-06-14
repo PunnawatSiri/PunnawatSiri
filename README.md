@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @PunnawatSiri
-- 👀 I’m interested in vision-based intelligent maintenance for infrastructure.
-- ✨ I’m currently working on Synthetic Damage for Crack Detection 🕹️ at IMOS lab in EPFL.
+- 👀 I’m interested in intelligent maintenance for infrastructure.
+- ✨ I’m currently working on establishing Thailand's digital infrastructure.
 - 🐧 I use Linux Mint btw. 
-- 📫 Reach me for profession p.siripatthiti@gmail.com; for academic: punnawat@kth.se
-- 👷🏻‍♂️ I had been working as structural designer for three years. Visit https://punnawatsiri.github.io/ to see more about my portfolio.
+- 📫 Reach me for the profession: punna.si@doh.go.th
+- 👷🏻‍♂️ I have been working as a structural designer for three years. Visit https://punnawatsiri.github.io/ to see more about my portfolio.
+- 📜 I did my [mater thesis](https://github.com/PunnawatSiri/Master_thesis_summary) 🕹️ at IMOS lab in EPFL.
+- 🎓 Bachelor's degree in Civil Engineering at Chiang Mai University, Thailand; Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology, Sweden.
+
 
 <!---
 PunnawatSiri/PunnawatSiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
